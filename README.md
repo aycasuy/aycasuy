@@ -1,12 +1,12 @@
 <h1 align="center">Merhaba 👋, Ben Ayça Su </h1>
-<h3 align="center">Tutkulu bir Bilgisayar Mühendisliği Öğrencisiyim</h3>
+<h3 align="center"> Bilgisayar Mühendisliği Öğrencisiyim</h3>
 
 
 
 ---
 
 <p align="left"> 
-  - 🌱 Şu sıralar <strong>Unity</strong> öğreniyorum.
+  - 🌱 Şu sıralar <strong>Unity</strong> öğreniyorum.<br>
   - 📫 Bana nasıl ulaşabilirsin: <strong> yildirimaycasu@gmail.com </strong>
   
 </p>
@@ -36,9 +36,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aycasuy&show_icons=true&locale=tr&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/aycasuy/aycasuy/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 ---
 
