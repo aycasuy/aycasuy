@@ -1,46 +1,54 @@
-<h1 align="center">👋 Merhaba, ben Ayça!</h1>
-<p align="center">
-  💻 Bilgisayar Mühendisliği Öğrencisi | 🎮 Oyun Geliştirici | ☁️ Flutter ve Unity ile ilgileniyorum
-</p>
+<h1 align="center">Merhaba 👋, Ben Ayça Su </h1>
+<h3 align="center">Tutkulu bir Bilgisayar Mühendisliği Öğrencisiyim</h3>
+
+
 
 ---
 
-### 🚀 Hakkımda
-- 🎓 Bilgisayar Mühendisliği son sınıf öğrencisiyim  
-- 💡 Unity ile oyun projeleri geliştiriyorum  
-- 📱 Flutter ile mobil uygulamalar yazıyorum  
-- ✍️ Şu an "Moody" adında bir mood tracking uygulaması üzerinde çalışıyorum
-
----
-
-### 🛠️ Kullandığım Teknolojiler
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
----
-
-### 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aycasuy&show_icons=true&theme=radical" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycasuy&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
-### 📫 Bana Ulaşın
-
-- ✉️ Mail: yildirimaycasu@gmail.com 
-- 💼 [LinkedIn]  
+<p align="left"> 
+  - 🔭 Şu anda <strong>[Üzerinde Çalıştığın Proje veya Teknoloji]</strong> üzerinde çalışıyorum.
+  - 🌱 Şu sıralar <strong>Unity</strong> öğreniyorum.
+  - 💬 Bana <strong>[Konuşmak İstediğin Konular]</strong> hakkında soru sorabilirsin.
+  - 📫 Bana nasıl ulaşabilirsin: <strong>yildirimaycasu@gmail.com</strong>
   
+</p>
 
 ---
 
+<h3 align="left">Benimle Bağlantı Kurun:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/[linkedin-kullanici-adin]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/[twitter-kullanici-adin]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://[web-siten.com]" target="_blank"><img src="https://img.shields.io/badge/Website-46a2ce?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+</p>
+
+---
+
+<h3 align="left">Kullandığım Teknolojiler:</h3>
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,js,react,html,css,tailwind,docker,kubernetes,aws,mysql,postgres,mongodb&perline=7" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">GitHub İstatistiklerim:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aycasuy&show_icons=true&locale=tr&theme=tokyonight" alt="GitHub İstatistikleri" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aycasuy&show_icons=true&locale=tr&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/aycasuy/aycasuy/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aycasuy&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="Ziyaretçi Sayacı" />
+</p>
 
 <!--
 **aycasuy/aycasuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
