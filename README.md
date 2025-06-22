@@ -23,7 +23,7 @@
 <h3 align="left">Kullandığım Teknolojiler:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,flutter,c#,js,html,css,aws,mysql,mongodb&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,flutter,c#,js,html,css,mysql,&perline=7" />
   </a>
 </p>
 
