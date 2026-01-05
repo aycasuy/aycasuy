@@ -22,3 +22,9 @@
 ### 📫 Bana Ulaşın
 
 * **E-posta:** [yildirimaycasu@gmail.com]
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aycasuy&label=PROFIL+ZIYARETI&color=0e75b6&style=flat-square" alt="Ziyaretçi Sayacı" />
+</p>
